@@ -6,5 +6,5 @@
 - Move `Templates` folder to `~/Library/Developer/Xcode/`
 ```bash
 $ cd XcodeTemplates
-$ cp Templates ~/Library/Developer/Xcode/Templates
+$ cp -R Templates ~/Library/Developer/Xcode/Templates
 ```
