@@ -6,8 +6,6 @@ struct ___FILEBASENAMEASIDENTIFIER___: View {
     }
 }
 
-struct ___FILEBASENAMEASIDENTIFIER____Previews: PreviewProvider {
-    static var previews: some View {
-        ___FILEBASENAMEASIDENTIFIER___()
-    }
+#Preview {
+    ___FILEBASENAMEASIDENTIFIER___()
 }
